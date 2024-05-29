@@ -1,0 +1,7 @@
+node_modules
+cypress.config.js
+screenshots
+reports
+logs
+package-lock.json
+package.json
